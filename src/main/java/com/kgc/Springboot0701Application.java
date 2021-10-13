@@ -9,7 +9,7 @@ import org.springframework.context.annotation.PropertySource;
 public class Springboot0701Application {
 
     public static void main(String[] args) {
-
+        //xm更改
         SpringApplication.run(Springboot0701Application.class, args);
     }
 
